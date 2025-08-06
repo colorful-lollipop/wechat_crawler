@@ -1,9 +1,6 @@
 wechat_articles/
-*.md
-*.json
 
 wechat_daily_articles/
-*.json
 
 *.log
 
