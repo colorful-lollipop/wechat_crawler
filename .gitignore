@@ -1,5 +1,9 @@
-./wechat_articles/
-./wechat_daily_articles/
+wechat_articles/
+*.md
+*.json
+
+wechat_daily_articles/
+*.json
 
 *.log
 
