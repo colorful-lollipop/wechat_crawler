@@ -1,0 +1,43 @@
+{
+  "account": "清华紫荆之声",
+  "fakeid": "MzI1Mjc0ODM5MQ==",
+  "crawl_time": "2025-04-27T13:19:42.103327",
+  "articles": [
+    {
+      "aid": "2247505210_1",
+      "title": "直击现场！清华大学第43届“挑战杯”科展开展",
+      "link": "http://mp.weixin.qq.com/s?__biz=MzI1Mjc0ODM5MQ==&mid=2247505210&idx=1&sn=7c4b64a52ffaad1d23ec48592fa8b1ba&chksm=e9dc6232deabeb24ae8387bec00d1af05dc90204a6837558f36cadf47175bca569cec9af531d#rd",
+      "create_time": 1745663365,
+      "create_time_str": "2025-04-26 18:29:25",
+      "digest": "直击现场！快来清华大学第43届“挑战杯”科展，参观互动多领域优秀科创作品。4月26、27日北体育馆室外篮球场，邀您共赴科创盛宴！",
+      "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/cr8Yd7Ag40WWtsxfDeYOVr2V0SibmRTWfGNXsC6t85kJ1tDOTl2fEagics7CQED8LkON26OGPibfrnUIppE20wsVg/0?wx_fmt=jpeg"
+    },
+    {
+      "aid": "2247505188_1",
+      "title": "联创计划·我在清华迎校庆 | 一起来迎接清华大学114岁生日！",
+      "link": "http://mp.weixin.qq.com/s?__biz=MzI1Mjc0ODM5MQ==&mid=2247505188&idx=1&sn=db42c41a4df74fbdc62192e5504e64a3&chksm=e9dc622cdeabeb3a6e806ee50b664b9325925996ec83673b14473e1540ad544d42783acda5c6#rd",
+      "create_time": 1745575593,
+      "create_time_str": "2025-04-25 18:06:33",
+      "digest": "“紫荆之声”联创计划期待您的参与！",
+      "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/cr8Yd7Ag40VMV2sXib3wkpx2iaatRqIPIFIyaLoYQVIqakG16J179e5URIkGMwdXO9icRQniaAPIKKU2ZtIvv2MZGA/0?wx_fmt=jpeg"
+    },
+    {
+      "aid": "2247505188_2",
+      "title": "阳光体育集体锻炼背后的故事——优秀助教采访：严晓颖&吴宇辉",
+      "link": "http://mp.weixin.qq.com/s?__biz=MzI1Mjc0ODM5MQ==&mid=2247505188&idx=2&sn=4fde9950826ddc6d00fb9e46479169c1&chksm=e9dc622cdeabeb3a5071579757b65082c757271c10923fb8fa86b9c4b70ea8ccf743c4c3af54#rd",
+      "create_time": 1745575593,
+      "create_time_str": "2025-04-25 18:06:33",
+      "digest": "&nbsp; &nbsp; &nbsp; 为了让同学们更好地了解阳光体育助教的工作思路，分享优秀阳光体育助教",
+      "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/cr8Yd7Ag40VMV2sXib3wkpx2iaatRqIPIFJszlZpbe4NPCBr0vUbiawuvAia6H5Xm8KphpFIpoaOibHn3IbXCzNdsDA/0?wx_fmt=jpeg"
+    },
+    {
+      "aid": "2247505188_3",
+      "title": "清华同学开发颠覆性技术！用手机自拍视频就实现医疗级心率检测",
+      "link": "http://mp.weixin.qq.com/s?__biz=MzI1Mjc0ODM5MQ==&mid=2247505188&idx=3&sn=c18d38433dbece3e8233715aa5c227ad&chksm=e9dc622cdeabeb3ad0b56a1f1962243d72718fac605770a8582a4a5bb6be6de7dff881b8b526#rd",
+      "create_time": 1745575593,
+      "create_time_str": "2025-04-25 18:06:33",
+      "digest": "",
+      "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/cr8Yd7Ag40VMV2sXib3wkpx2iaatRqIPIFic3mVL50fibXKjVL1a7A0ZxdIaKqPibf8FibEL2c7gf8RjgngKWueFI7ibA/0?wx_fmt=jpeg"
+    }
+  ]
+}
