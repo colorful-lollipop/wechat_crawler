@@ -1,5 +1,7 @@
 # wechat_crawler
 
+> 使用前请pip install -r requirements.txt
+
 微信公众号历史文章爬虫+每日定时爬虫
 
 1. 打开微信公众号平台，随意选择一个自己的公众号登陆，`Ctrl+Shift+I` 打开控制台，选择网络（network），点击“首页” `home` 开头的网址，在里面可以找到你的token (在General -> Request URL中) 和Cookie (在Request Headers中)
@@ -32,3 +34,9 @@
 4. 通过 `daily_wechat_crawler.dat` 为windows创建定时任务，从而实现每天的定时爬取
 
 5. `get_cookie.py` 可用于提取一个公众号的所有历史信息（是daily_wechat_crawler.py的初级版）
+
+
+
+
+# 数据处理部分
+运行step2/gen.py
