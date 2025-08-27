@@ -92,6 +92,8 @@ def process(fname):
         # 确保父目录存在
         output_path.parent.mkdir(parents=True, exist_ok=True)
         # 如果文件存在， continue
+        if output_path.exists():
+            continue
         name = output_path
         js_webpage_to_pdf(a['url'], name)
         url = a['url']
